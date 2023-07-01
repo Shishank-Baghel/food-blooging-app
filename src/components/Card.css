@@ -1,0 +1,34 @@
+.card-container{
+    padding: 27px;
+    border-radius: 21px;
+    border: 0.5px grey solid;
+    width: 381px;
+    height: 554px;
+}
+.card-img{
+    width: 326px;
+    height: 257px;
+}
+.card-title{
+    margin-top: 35px;
+    font-size: 21px;
+    font-weight: bold;
+    color:#0E2368;
+}
+.card-desc{
+    font-weight: 400;
+    font-size: 15px;
+    color:#444957
+}
+.card-btn button{
+
+    margin-top: 41px;
+    border-radius: 34px;
+    color: blue;
+    font-weight: bold;
+    font-size: 18px;
+    width: 190px;
+    height: 63px;
+    border: 0.5px grey solid;
+    
+}
